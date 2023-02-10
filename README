@@ -1,0 +1,13 @@
+Task1:
+-create a listing page for the dbo.users table
+
+    learn how to host these pages (MAMP or XAMPP)
+    make connection to database
+    make table
+    insert data
+    make function
+    learn bootstrap
+    load values in and dynamically change page
+
+Task2:
+-add the ability to update users on the listing page
